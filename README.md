@@ -2,8 +2,6 @@
 
 A static blog website built to demonstrate web analytics implementation using Google Analytics, deployed via GitHub Pages.
 
-## 🔗 Live Demo
-[https://nix0123.github.io/web-analytics-blog/](https://nix0123.github.io/web-analytics-blog/)
 
 ## 📌 About
 talk is a blog website developed as part of a mini project for the subject of Web Analytics. The project covers the full pipeline — from website creation and deployment to analytics integration, engagement tracking, conversion goals, and SEO optimization.
@@ -52,7 +50,7 @@ Created a custom event `contact_visit` triggered when `page_location` contains `
 - Added `alt` attributes to images
 - Created `sitemap.xml` and `robots.txt`
 
-## 📊 Sample Events Tracked
+ Events Tracked
 | Event Name       | Count |
 |------------------|-------|
 | page_view        | 5     |
@@ -65,8 +63,6 @@ Created a custom event `contact_visit` triggered when `page_location` contains `
 - Website successfully deployed and publicly accessible
 - GA4 tracking verified via Realtime and Engagement reports
 - Conversion event (`contact_visit`) recorded and confirmed
-- SEO meta tags and sitemap implemented
 
-## 👤 Author
-**SAC**  
-+91-9878770515 | SAC.pvt@gmail.com
+
+
